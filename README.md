@@ -16,6 +16,11 @@ gcc --version
 VSCodeのエクステンションをインストール（以下は最低限）
 - C/C++
 
+atcoder-toolsのインストール
+```
+sudo pip3 install atcoder-tools
+```
+
 ## テストケースダウンロード＋ソースコード生成
 ```Competitive-Programing-2```直下にcdして
 ```
