@@ -34,6 +34,9 @@ atcoder-tools compile
 atcoder-tools test
 ```
 
+## テンプレートコードの変更
+```my_template.cpp```を編集する。
+
 ## コード提出
 作業中のソースコードが入っている場所にcdして
 ```
